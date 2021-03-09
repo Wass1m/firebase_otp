@@ -1,0 +1,4 @@
+#Tue Mar 09 22:28:13 CET 2021
+base.0=/Users/macbook/Downloads/firebase_otp-main (extract.me)/build/app/intermediates/dex/debug/mergeDexDebug/out/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
